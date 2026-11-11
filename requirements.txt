@@ -1,0 +1,5 @@
+vkbottle>=4.11,<5
+python-dotenv>=1.0,<2
+pytest>=8,<9
+pytest-asyncio>=1.0,<2
+loguru
